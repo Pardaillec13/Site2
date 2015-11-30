@@ -1,0 +1,64 @@
+h1 {
+	border: 3pt outset #F08080;
+	font-family: arial;
+	font-size: 16pt;
+	font-weight: bold;
+	color: rgb(128,0,0);
+	text-align: center;
+	padding: 3pt;
+	width: 30%;
+	margin: auto;
+}
+p {
+	font-weight: bold;
+	text-align: center;
+}
+
+h3 {
+	font-family: verdana;
+	font-size: 14pt;
+	color: rgb(128,0,0);
+	text-decoration: underline;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	margin: 3pt;
+	text-align: center;
+	font-weight: bold;
+}
+
+hr {
+	width: 4in;
+	height: 4pt;
+	background-color: #F08080;
+	margin-top: 5%;
+}
+
+.hautdepage {
+	background-color: #FFDAB9;
+	padding: 10pt;
+	text-align: center;
+}
+
+.colgauche {
+	background-color: #DEB887;
+	float: left;
+	width: 33.33333%;
+	padding-bottom: 3%;
+}
+
+.colcentre {
+	background-color: #FFFFA0;
+	overflow: hidden;
+	width: 33.33333%;
+	padding-bottom: 3%;
+}
+
+.coldroite {
+	background-color: #CDA0A0;
+	float: right;
+	width: 33.33333%;
+	padding-bottom: 3%;
+}
